@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #333;
+}
+.clockCont{
+    height: 30%;
+    width: 30vw;
+    background-color: #555;
+    border: 1px solid gray;
+    border-radius: 9px;
+    position: fixed;
+    left: 35%;
+    top:35%;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    margin-top: 60px;
+    color: rgb(236, 219, 219);
+}
